@@ -1,13 +1,4 @@
 # Responsive Travel Website 🌊
-## [Watch it on youtube](https://youtu.be/YzRDHxbw1RU)
-###  Responsive Travel Website 🌊
-
-- Travel website to the most beautiful beaches, using HTML, CSS & JAVASCRIPT.
-- Contains animations when scrolling.
-- Includes a dark and light mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
-
-Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
-
+TASK 1:
+Create an interactive navigation menu that changes color or style when scrolled or when hovering over a menu item. The navigation menu should have a fixed position and be visible on all pages. Use HTML to structure the menu, CSS to style it, and JavaScript to add interactivity, such as changing the background color or font color of the menu when it is scrolled or when a menu item is hovered over
 ![travel-website](/preview.png)
